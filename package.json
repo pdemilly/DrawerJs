@@ -19,7 +19,7 @@
     "grunt-open": "^0.2.3"
   },
   "scripts": {
-    "start": "node node_modules/grunt-cli/bin/grunt",
+    "start": "node node_modules/grunt-cli/bin/grunt"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
